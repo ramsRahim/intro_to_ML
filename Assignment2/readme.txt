@@ -1,4 +1,5 @@
-## Description.  
+## Description
+
 1. Get the data: Get the data and data description from the UCI repository about characteristics for 3 different flowers: https://archive.ics.uci.edu/ml/datasets/iris
 2. Data contains 4 specifications:
 • sepal length in cm
